@@ -1,0 +1,7 @@
+# Python Cache Files 
+
+# Python compiled files 
+*.pyc
+
+# Lock files 
+*.lock

@@ -1,0 +1,19 @@
+{
+    "colorMode" : {
+        "available" : [
+            "dark",
+            "light"
+        ],
+        "default" : "dark"
+    } , 
+    "colors" : {
+        "dark" : {
+            "background" : "#1D1F21",
+            "foreground" : "#C5C8C6"
+        },
+        "light" : {
+            "background" : "#FDFDFD",
+            "foreground" : "#1D1F21"
+        }
+    }
+}
